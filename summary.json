@@ -1,0 +1,8 @@
+{
+  "best_model": "Logistic Regression",
+  "loo_accuracy": 86.84,
+  "avg_accuracy": 88.59,
+  "n_organisms": 114,
+  "n_tests": 252,
+  "n_genera": 12
+}
